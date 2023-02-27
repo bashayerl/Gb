@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984141135310",
+    "project_id": "auth-f7eea",
+    "storage_bucket": "auth-f7eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984141135310:android:bd122a7dbee464f0927f9f",
+        "android_client_info": {
+          "package_name": "kholoud.gpl.android.gpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984141135310-3qmehcrubfrub07k54pbdd9r894da732.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCvslotKJXDzQYuMjB0TroO3Xl1a8TOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984141135310-3qmehcrubfrub07k54pbdd9r894da732.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
